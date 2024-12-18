@@ -1,0 +1,6 @@
+1 - Início
+2 - Pedir ao utilizador o operando A
+3 - Pedir ao utilizador o operando B 
+4 - Calcular a some entre A e B
+5 - Apresente p resultado da operação calculada no ponto 4
+6 - Fim
