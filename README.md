@@ -1,2 +1,2 @@
-#Soma dois valores
-## Linguagem natural, Fluxograma, Pseudocódigo e Python
+# Add two values
+## Natural language, Flowchart, Pseudocode and Python

@@ -1,0 +1,6 @@
+1 - Home
+2 - Ask the user for operand A
+3 - Ask the user for operand B 
+4 - Calculate the sum between A and B
+5 - Present the result of the operation calculated in point 4
+6 - End

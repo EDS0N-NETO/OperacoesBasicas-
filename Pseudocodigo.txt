@@ -1,0 +1,14 @@
+Sum algorithm;
+
+Variables a, b, sum: integer;
+
+Start
+    Write("Enter an number integer:");
+    Read
+    Write("Enter another number integer");
+    Read(b)
+
+    Sum = a + b;
+    Write("The result of the sum", a, "+", b, "=", sum);
+
+End
